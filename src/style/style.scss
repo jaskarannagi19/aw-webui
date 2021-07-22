@@ -21,3 +21,82 @@ body {
   margin-right: 4px;
   vertical-align: middle;
 }
+
+
+.fullWidth{
+  width: 100%;
+}
+
+.innerWidth{
+  width: 60%; margin: 0px auto;
+}
+.firstPara{
+  text-align: center; font-size: 30px; color:#b79ddc; font-family:Arial, Helvetica, sans-serif; padding:5px 0px; margin: 0px;
+}
+.hr{
+  color:#fff; width: 40%; height: 2px; background-color: #fff; padding:0px 0px; margin:0px auto;
+}
+.secondPara{
+  text-align: center; padding: 5px 0px; margin: 0px 0px;
+}
+.image{
+  text-align: center;
+}
+.thirdPara{
+  text-align: center; font-size: 30px; color:#b79ddc; font-family:Arial, Helvetica, sans-serif; padding:5px 0px; margin: 0px;
+}
+.txtcenter{
+  text-align:center;
+}
+.btnDownload{
+  background-color: #b79ddc; border: none; color: white; padding: 15px 60px;
+                text-align: center; text-decoration: none; display: inline-block;  font-size: 20px; margin: 4px 2px; cursor: pointer; border-radius: 10px; box-shadow: 2px 2px 2px #000;
+}
+.fourthPara{
+  clear:both; height: 10px;
+}
+.fifthPara{
+  text-align: left; font-size: 15px; color:#b79ddc; font-family:Arial, Helvetica, sans-serif; padding:5px 0px; margin: 0px;
+}
+.sixthPara{
+  padding: 5px 0px; margin: 0px 0px;
+}
+.txtName{
+  width: 60%; padding: 12px 20px; margin: 4px 0; display: inline-block; border: 1px solid #ccc;
+            border-radius: 4px; box-sizing: border-box; background-color: #ececec;
+}
+.seventhPara{
+  padding: 5px 0px; margin: 0px 0px;
+}
+.txtAge{
+  width: 60%; padding: 12px 20px; margin: 4px 0; display: inline-block; border: 1px solid #ccc;
+            border-radius: 4px; box-sizing: border-box; background-color: #ececec;
+}
+.eigtPara{
+  padding: 5px 0px; margin: 0px 0px;
+}
+.txtFrom{
+  width: 60%; padding: 12px 20px; margin: 4px 0; display: inline-block; border: 1px solid #ccc;
+            border-radius: 4px; box-sizing: border-box; background-color: #ececec;
+}
+.ninePara{
+  padding: 5px 0px; margin: 0px 0px;
+}
+.txtTime{
+  width: 60%; padding: 12px 20px; margin: 4px 0; display: inline-block; border: 1px solid #ccc;
+        border-radius: 4px; box-sizing: border-box; background-color: #ececec;
+}
+.tenPara{
+  text-align: left; font-size: 15px; color:#b79ddc; font-family:Arial, Helvetica, sans-serif; padding:5px 0px; margin: 0px;
+}
+.select{
+  width: 60%; padding: 12px 20px; margin: 4px 0; display: inline-block; border: 1px solid #ccc;
+                border-radius: 4px; box-sizing: border-box; background-color: #ececec;
+}
+.elevenPara
+{padding: 5px 0px; margin: 0px 0px;}
+
+.inputurl{
+  width: 60%; padding: 12px 20px; margin: 4px 0; display: inline-block; border: 1px solid #ccc;
+               border-radius: 4px; box-sizing: border-box; background-color: #ececec;
+}
