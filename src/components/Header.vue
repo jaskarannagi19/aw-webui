@@ -5,7 +5,7 @@ div(:class="{'fixed-top-padding': fixedTopMenu}")
     b-navbar-nav.d-block.d-lg-none
       b-navbar-brand(to="/" style="background-color: transparent;")
         img.aligh-middle(src="/static/logo.png" style="height: 1.5em;")
-        span.ml-2.align-middle(style="font-size: 1em; color: #000;") ActivityWatch
+        span.ml-2.align-middle(style="font-size: 1em; color: #000;") Weekly
 
     b-navbar-toggle(target="nav-collapse")
 
